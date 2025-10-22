@@ -21,7 +21,8 @@ Timing ends depending on the active category.
 	* Used for Cock%.
 
 ## Hotkeys
-* , - Reset timer
+* , - Resets timer, clears file data, and returns to title screen
+* . - Stop timer
 * Shift+Tab - Change timer format
 * Control+Tab - Change category
 
