@@ -1,1 +1,1 @@
-passed = "IGT Mod v1.0\nContact: creyon#1828";
+passed = "IGT Mod v1.3\nContact: nabster978 on Discord";
