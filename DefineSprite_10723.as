@@ -111,9 +111,12 @@ else
       {
          frames = 0;
          _root.timerRunning = false;
-         _root.DeleteFile();
-         _root.ReturnToCastle();
-         _root.ReturnToTitle();
+         if(Key.isDown(13))
+         {
+            _root.DeleteFile();
+            _root.ReturnToCastle();
+            _root.ReturnToTitle();
+         }
       }
       if(Key.isDown(190))
       {
