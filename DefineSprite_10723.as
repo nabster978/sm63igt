@@ -113,7 +113,7 @@ else
          _root.timerRunning = false;
          if(Key.isDown(13))
          {
-            _root.DeleteFile();
+            _root.DeleteFile(_root.File);
             _root.ReturnToCastle();
             _root.ReturnToTitle();
          }
